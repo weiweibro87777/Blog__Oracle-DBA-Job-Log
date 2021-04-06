@@ -17,7 +17,7 @@ SVRMGR> SELECT owner, object_name, object_type
      2> FROM Dba_Objects   
      3> WHERE object_id IN (33023);   
 OWNER                          OBJECT_NAME          OBJECT_TYPE   
------------------------------- -------------------- -------------------   
+---------------------------- -------------------- -------------------   
 DBASRM                         SRMEMPCS_PK          INDEX   
 1 row selected.   
    
