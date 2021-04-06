@@ -52,7 +52,7 @@ Execute SRM_CA609_SP_TEMP失敗
 ORA-04043: object DBASRM does not exist   
    
 再將procedure DBASRM.SRMCA609_SP_TEMP 作 Compiler with Debug動作後恢復正常。   
-（這裡也是困擾了我，在我嘗試要做這步驟前也是查了很多資料，詢問前輩後有共識及嘗試這樣做）   
+（這裡也是困擾了我，在我嘗試要做這步驟前也是查了很多資料，詢問前輩後有共識後嘗試這樣做）   
    
 經測試，DB重啟後可正常使用，但還別急著通知user   
    
