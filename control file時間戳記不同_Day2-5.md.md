@@ -106,6 +106,7 @@ FILE#      STATUS
         57 ONLINE   
         58 ONLINE   
         59 ONLINE   
+   
 59 rows selected.   
 SVRMGR> recover datafile 2;   
 Media recovery complete.   
