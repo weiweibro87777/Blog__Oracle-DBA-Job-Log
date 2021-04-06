@@ -11,10 +11,7 @@ ORA-06512:at line 1
    
 看到此錯誤訊息，看起來是要將index重建   
    
-以防萬一，先查詢此object是否真的為index   
-SELECT owner, object_name, object_type   
-FROM Dba_Objects   
-WHERE object_id IN (33023);    
+以防萬一，先查詢此object是否真的為index      
    
 SVRMGR> SELECT owner, object_name, object_type   
      2> FROM Dba_Objects   
