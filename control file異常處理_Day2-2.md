@@ -1,7 +1,7 @@
 # 2021-04-06(二) control file故障   
    
 -----   
-
+> #### 這一年來雖然沒有在更新github，但每次遇到的狀況我都會記錄在自己的電腦中
 > #### 單位來電反應，登入資料庫後無法使用，先查詢DB狀況   
    
 SVRMGR> connect internal/spmanager   
