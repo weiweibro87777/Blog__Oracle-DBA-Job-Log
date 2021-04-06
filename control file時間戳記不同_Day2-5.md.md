@@ -113,14 +113,14 @@ SVRMGR> alter database datafile 2 online;
 Statement processed.   
 SVRMGR> select status from v$instance;   
 STATUS   
---------   
+ --------   
 MOUNTED   
 1 row selected.   
 SVRMGR> alter database open;   
 Statement processed.   
 SVRMGR> select status from v$instance;   
 STATUS   
---------   
+ --------   
 OPEN   
 1 row selected.   
 經測試，已可正常操作   
