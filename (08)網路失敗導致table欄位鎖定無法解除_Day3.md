@@ -81,7 +81,7 @@ commit;   一樣無效
    
 SVRMGR> recover database using backup controlfile until time '20210204 16:10:00'   
    
-ORA-00279: change 2272557598125 generated at 02/03/20 23:00:49 needed for thread1   
+ORA-00279: change 2272557598125 generated at 02/03/21 23:00:49 needed for thread1   
 ORA-00289: suggestion : F:\ARCHIVE\ARC565704.1   
 ORA-00280: change 2272557598125 for thread 1 is in sequence #565704   
 Specify log: {<RET>=suggested | filename | AUTO | CANCEL}   
